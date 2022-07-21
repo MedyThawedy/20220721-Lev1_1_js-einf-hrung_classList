@@ -6,3 +6,10 @@ div:nth-child(3) {
 h2 {
     margin-left: 1vw;
 }
+
+.clsOlTodoList {
+
+    font-size: 3rem;
+    margin-left: 3vw;
+
+}
